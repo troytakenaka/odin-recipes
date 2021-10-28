@@ -1,0 +1,30 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+    text-align: center;
+    background-color: black;
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+.foods {
+    font-family: Tahoma, Verdana;
+    font-weight: lighter;
+    font-size:18px;
+    background-color: white;
+}
+
+.links-list a {
+background-color: black;
+color: lightblue;
+}
+
+.links-list a:hover {
+    background-color: lightslategray;
+    color: lightpink;
+}
